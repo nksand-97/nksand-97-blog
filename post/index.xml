@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Blog</title>
+    <link>http://nksand-97.github.io/post/</link>
+    <description>Recent content in Posts on Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Thu, 07 Apr 2022 14:37:25 +0000</lastBuildDate><atom:link href="http://nksand-97.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Init Post</title>
+      <link>http://nksand-97.github.io/post/init-post/</link>
+      <pubDate>Thu, 07 Apr 2022 14:37:25 +0000</pubDate>
+      
+      <guid>http://nksand-97.github.io/post/init-post/</guid>
+      <description>ahahahahahaha</description>
+    </item>
+    
+  </channel>
+</rss>
