@@ -6,7 +6,7 @@
     <description>Recent content on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Thu, 07 Apr 2022 14:37:25 +0000</lastBuildDate><atom:link href="http://nksand-97.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://nksand-97.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>http://nksand-97.github.io/about/</link>
@@ -17,12 +17,15 @@
     </item>
     
     <item>
-      <title>Init Post</title>
+      <title>初投稿</title>
       <link>http://nksand-97.github.io/post/init-post/</link>
-      <pubDate>Thu, 07 Apr 2022 14:37:25 +0000</pubDate>
+      <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>http://nksand-97.github.io/post/init-post/</guid>
-      <description>ahahahahahaha</description>
+      <description>初投稿。
+このブログはHugoとGitHub Pagesでとりあえず作った。よくわからんのでWebの情報通りにテンプレート拾って作っただけ。
+WordPressを使おうと思ったが、サーバーの管理に金かかるしめんどくさそうだしで諦めた。
+とりあえず続けることが目標。</description>
     </item>
     
   </channel>

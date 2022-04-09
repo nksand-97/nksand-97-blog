@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Blog</title>
-    <link>http://nksand-97.github.io/post/</link>
-    <description>Recent content in Posts on Blog</description>
+    <title>日記 on Blog</title>
+    <link>http://nksand-97.github.io/categories/%E6%97%A5%E8%A8%98/</link>
+    <description>Recent content in 日記 on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Fri, 08 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://nksand-97.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://nksand-97.github.io/categories/%E6%97%A5%E8%A8%98/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>初投稿</title>
       <link>http://nksand-97.github.io/post/init-post/</link>
